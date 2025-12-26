@@ -8,14 +8,15 @@ It defines the system’s scope, progression, and design intent.
 
 It does not contain project implementations.
 
-Each project is implemented in its own dedicated repository with independent code, documentation, and Git history. This repository exists to make the system coherent, navigable, and auditable.
+Each project is implemented in its own dedicated repository with independent code, documentation, and Git history. 
+This repository exists to make the system coherent, navigable, and auditable.
 
 **Problem Statement**
 Unstructured self-directed technical training commonly fails due to:
 Fragmented project selection
 Lack of cumulative progression
 Inconsistent or superficial version control practices
-Inability to demonstrate reasoning, tradeoffs, or system understanding
+Inability to demonstrate reasoning, tradeoffs, or system understanding.
 This system is designed to correct those failure modes by enforcing a structured progression of work, explicit decision-making, and verifiable artifacts.
 
 **System Structure**
