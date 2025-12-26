@@ -1,6 +1,6 @@
-Repository Overview
+**Repository Overview**
 
-Purpose
+**Purpose**
 
 This repository serves as the authoritative index and structural specification for a multi-phase technical training system composed of 60 primary projects and 27 mini projects.
 
@@ -10,7 +10,7 @@ It does not contain project implementations.
 
 Each project is implemented in its own dedicated repository with independent code, documentation, and Git history. This repository exists to make the system coherent, navigable, and auditable.
 
-Problem Statement
+**Problem Statement**
 Unstructured self-directed technical training commonly fails due to:
 Fragmented project selection
 Lack of cumulative progression
@@ -18,17 +18,17 @@ Inconsistent or superficial version control practices
 Inability to demonstrate reasoning, tradeoffs, or system understanding
 This system is designed to correct those failure modes by enforcing a structured progression of work, explicit decision-making, and verifiable artifacts.
 
-System Structure
+**System Structure**
 
 The training system is organized into three phases, each increasing in scope and rigor:
 
-Phase 1 — Foundations
+**Phase 1 — Foundations**
 Core Linux operation, scripting fundamentals, and baseline Git discipline
 
-Phase 2 — Integration
+**Phase 2 — Integration**
 System troubleshooting, security fundamentals, and operational workflows
 
-Phase 3 — Mastery
+**Phase 3 — Mastery**
 Advanced system administration and cloud-oriented operations
 
 Each phase consists of two categories of work:
@@ -41,7 +41,7 @@ Constrained exercises designed to validate specific technical competencies
 
 Projects are serialized within each phase to reflect intended progression. No time-based assumptions are embedded in the structure.
 
-Repository Scope
+**Repository Scope**
 
 This repository contains:
 
@@ -56,7 +56,7 @@ Prebuilt solutions or templates
 
 All implementation details live in the corresponding project repositories.
 
-Navigation Model
+**Navigation Model**
 
 To evaluate or follow the system:
 Review the phase structure to understand progression
@@ -67,7 +67,7 @@ Examine Git history and artifacts to assess execution
 
 This repository defines what exists and why it exists; execution is demonstrated elsewhere.
 
-Standards and Governance
+**Standards and Governance**
 
 Project-wide standards—such as Git usage expectations, documentation requirements, and evaluation criteria—are defined in separate reference documents.
 
