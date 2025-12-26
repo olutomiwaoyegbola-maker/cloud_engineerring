@@ -9,6 +9,7 @@ It defines the system’s scope, progression, and design intent.
 It does not contain project implementations.
 
 Each project is implemented in its own dedicated repository with independent code, documentation, and Git history. 
+
 This repository exists to make the system coherent, navigable, and auditable.
 
 **Problem Statement**
