@@ -14,10 +14,15 @@ This repository exists to make the system coherent, navigable, and auditable.
 
 **Problem Statement**
 Unstructured self-directed technical training commonly fails due to:
+
 Fragmented project selection
+
 Lack of cumulative progression
+
 Inconsistent or superficial version control practices
+
 Inability to demonstrate reasoning, tradeoffs, or system understanding.
+
 This system is designed to correct those failure modes by enforcing a structured progression of work, explicit decision-making, and verifiable artifacts.
 
 **System Structure**
@@ -48,12 +53,19 @@ Projects are serialized within each phase to reflect intended progression. No ti
 This repository contains:
 
 The complete project index
+
 Phase and project descriptions
+
 Mini project definitions and objectives
+
 Cross-cutting documentation references
+
 This repository does not contain:
+
 Source code for individual projects
+
 Step-by-step implementation instructions
+
 Prebuilt solutions or templates
 
 All implementation details live in the corresponding project repositories.
@@ -61,10 +73,15 @@ All implementation details live in the corresponding project repositories.
 **Navigation Model**
 
 To evaluate or follow the system:
+
 Review the phase structure to understand progression
+
 Select a primary project by its serialized position
+
 Navigate to the corresponding project repository
+
 Review the project README for scope, assumptions, and decisions
+
 Examine Git history and artifacts to assess execution
 
 This repository defines what exists and why it exists; execution is demonstrated elsewhere.
